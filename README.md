@@ -74,7 +74,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ```
 Name:Infancia felcy P
 Reg No:212223040067
-Date:02/09/2024
+Date:
 
 #include "main.h"
 #include"stdbool.h"

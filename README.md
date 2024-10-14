@@ -74,7 +74,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ```
 Name:HEMAVATHY S
 Reg No:212223230076
-Date:
+Date: 06/09/2024
 
 #include "main.h"
 #include"stdbool.h"

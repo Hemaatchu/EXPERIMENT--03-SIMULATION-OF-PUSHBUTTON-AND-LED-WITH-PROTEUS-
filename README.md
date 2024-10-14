@@ -72,8 +72,8 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```
-Name:Infancia felcy P
-Reg No:212223040067
+Name:HEMAVATHY S
+Reg No:212223230076
 Date:
 
 #include "main.h"
